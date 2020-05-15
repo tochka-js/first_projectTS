@@ -1,12 +1,14 @@
 
 .header {
     grid-area: h;
-    background-color: #CADB2A;
+    background-color: #101012;
+    margin: 0px 5px 0px 5px ;
+
 
 }
 
 
 .header img {
-    width: 242px;
+    width: 207px;
     height: 60px;
 }

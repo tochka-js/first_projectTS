@@ -1,7 +1,12 @@
 .nav {
     grid-area: n;
     background-color: lightgrey;
+    margin: 5px 0px 5px 5px;
+
 }
 .item {
+    padding: 10px;
     color: indigo;
+    font-size: large;
 }
+

@@ -1,7 +1,3 @@
-.profile {
-    grid-area: c;
-    background-color: #5AACEE;
-}
 
 .photo img  {
     width: 100%;
@@ -11,4 +7,5 @@
 .avatar img {
     width: 150px;
     height: 200px;
+    padding-top: 20px;
 }
